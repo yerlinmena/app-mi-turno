@@ -1,0 +1,69 @@
+.containerlogin {
+  text-align: center;
+  border: 1px solid blue;
+  margin: 30PX;
+  margin-right: 20px;
+  padding: 40px;
+  border-radius: 12px;
+  background-color: rgb(220, 223, 230);
+  text-align: center;
+  justify-content: center;
+  box-shadow: rgba(82, 46, 240, 0.4) -5px 5px, rgba(1, 35, 51, 0.3) -10px 10px,
+    rgba(46, 153, 240, 0.486) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px,
+    rgba(240, 46, 170, 0.05) -25px 25px;
+}
+.form-control {
+  padding: 10px;
+  margin: 15px;
+  
+  
+
+}
+.olvide-contraseña {
+  position: absolute;
+  top: 92%;
+  right: 5px;
+  text-decoration: none;
+  font-size: auto;
+  color: red;
+}
+
+.btn {
+  padding: 10px;
+  margin: 10px;
+  
+  
+}
+
+.formlogin{
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+  
+ }
+ 
+.formlogin button{
+  
+  border:none;
+  cursor: pointer;
+  width: 300px;
+  justify-content: center;
+  align-items: center;
+  
+}
+.registrarme{
+  
+  border:none;
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+ 
+  
+  
+}
+.olvide{
+  right: 300px;
+}
